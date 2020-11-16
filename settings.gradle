@@ -1,0 +1,3 @@
+include ':PallyconWVMSDK'
+include ':app'
+rootProject.name = "VideoPlayer"
